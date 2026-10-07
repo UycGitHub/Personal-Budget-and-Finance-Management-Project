@@ -42,7 +42,7 @@ The project utilizes the **"Finance Database.xlsx"** file, following a **"Bring 
 2. **Data Import into Power BI** – The Excel file is loaded into Power BI for visualization.
 3. **Visualization & Analysis** – Key metrics and trends are displayed in interactive dashboards.
 
-🎥 **Demo Video:** [Click here to watch](https://drive.google.com/file/d/1eScgPPUsKJ5sch76teHsuivcZe5suyJh/view?usp=sharing)
+🎥 **Demo Video:** [Click here to watch](https://drive.google.com/file/d/1rGyfpkN21gBFTnhvplNHNf3znjWyqnLk/view?usp=sharing)
 
 
 ## Files in This Repository
